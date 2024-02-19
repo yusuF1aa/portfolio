@@ -1,0 +1,34 @@
+.body{
+    font-family: Arial, sans-serif;
+    background-color: #a7e0f8;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #5dc0d4;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(175, 108, 197, 0.1);
+  }
+  h1 {
+    color: #333;
+  }
+  p {
+    line-height: 1.6;
+  }
+  .profile-picture {
+    max-width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  .info {
+    margin-bottom: 20px;
+  }
+  .info label {
+    font-weight: bold;
+  }
+  .info p {
+    margin: 5px 0;
+  }
